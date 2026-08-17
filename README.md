@@ -104,4 +104,4 @@ Project focused on APIs, integrations, Java, Spring Boot, and software quality p
 
 > *"Quality is not just finding bugs. It's understanding the business, preventing failures, and delivering confidence to users."*
 
-⭐ Feel free to explore my repositories and follow my journey in QA, Automation, and Software Development.
+⭐ Feel free to explore my repositories and follow my journey in QA, Automation, and Software Development. 
