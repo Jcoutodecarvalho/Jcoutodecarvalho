@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jhonatan Couto
+# Hi, I'm Jhonatan Couto
 
 🚀 **Systems Analyst | Java & Spring Boot | Backend Development | TOTVS Protheus | Software Quality**
 
